@@ -1,6 +1,7 @@
 # Expenses_Log
 
 - Languages used: React;
+- without backend;
 
 ## How To Use
 
